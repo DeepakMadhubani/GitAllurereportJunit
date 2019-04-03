@@ -23,7 +23,6 @@ public class TestAllure {
 	WebDriver driver;
 	
 	
-	
     @Before
 	public void startSetting()
 	{   	 
