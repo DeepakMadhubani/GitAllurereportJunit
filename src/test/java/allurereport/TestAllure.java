@@ -19,9 +19,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 
 public class TestAllure {
 
-	
 	WebDriver driver;
-	
 	
     @Before
 	public void startSetting()
